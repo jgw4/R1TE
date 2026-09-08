@@ -1,11 +1,3 @@
 # Replica-1-TE
 
-![replica1TE](https://github.com/Retrotink/Replica-1-TE/assets/121696513/8fa6e67f-5e33-47e0-83cf-022b7a673b77)
-
-
-Replica 1 TE Rev 3 files
-
-This is the Design files for the replica 1 TE REV 3
-
-
-![replica1TEDETAILS](https://github.com/Retrotink/Replica-1-TE/assets/121696513/3de8c58d-4384-4ac6-88e8-9ecb62998096)
+This repository is a fork of The Original Replica 1 TE-3, with the addition of a KiCad re-building of the PCB using the native schematic and and pcb editors. This makes it easier for those willing to modify the Replica-1 to suit their particular custom replica-1. This repo will eventually become the basis for the uA1 stripped down Apple-1 clone.
