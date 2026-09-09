@@ -211,7 +211,8 @@
       ],
       "track_widths": [
         0.0,
-        0.254
+        0.254,
+        0.762
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -540,6 +541,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -692,7 +694,7 @@
         "uuid": "9fe5b82a-5ab0-4e4d-bf87-8219b752c65a"
       }
     ],
-    "used_designators": "J3-5,U13,Q1,Y1",
+    "used_designators": "J3-5,U13,Q1,Y1,#PWR16-29,C21,C23,SW3",
     "variants": []
   },
   "sheets": [
